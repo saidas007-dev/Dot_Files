@@ -1,0 +1,10 @@
+Name          Version             Rev    Tracking       Publisher     Notes
+asciiquarium  1.1-snap9378        59     latest/stable  brlin         -
+atuin         18.9.0              13     latest/stable  artivis       -
+core          16-2.61.4-20250626  17247  latest/stable  canonical**   core
+core18        20250910            2952   latest/stable  canonical**   base
+core22        20250923            2139   latest/stable  canonical**   base
+core24        20251001            1225   latest/stable  canonical**   base
+cpufetch      1.06                352    latest/stable  kz6fittycent  -
+htop          3.4.1               5181   latest/stable  maxiberta*    -
+snapd         2.72                25577  latest/stable  canonical**   snapd
